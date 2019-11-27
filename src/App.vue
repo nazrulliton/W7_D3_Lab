@@ -1,4 +1,14 @@
 <template lang="html">
+<div>
+<h1>Countries:</h1>
+<div class="main-container">
+<countries-list :countries='countries'></countries-list>
+
+
+</div>
+</div>
+
+
 
 </template>
 
